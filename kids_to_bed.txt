@@ -1,0 +1,9 @@
+1. put kids to bed
+  1.1 identify kids
+    1.1.1 older kids
+      1.1.1.1 9:00 bedtime
+    1.1.2 younger kids
+      1.1.2.1 8:00 bedtime
+  1.2 make announcement
+    1.2.1 tell kids brush teeth
+    1.2.2
